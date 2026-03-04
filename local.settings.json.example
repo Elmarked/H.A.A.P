@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "TENANT_ID": "<tenant-id>",
+    "CLIENT_ID": "<managed-identity-client-id-optional>",
+    "USE_MANAGED_IDENTITY": "true"
+  }
+}
